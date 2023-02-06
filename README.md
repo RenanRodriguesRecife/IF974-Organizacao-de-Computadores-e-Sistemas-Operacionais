@@ -1,1 +1,3 @@
-# IF974-Organizacao-de-Computadores-e-Sistemas-Operacionais
+# IF974-Organização de Computadores e Sistemas Operacionais
+
+Sérgio Cavalcante
